@@ -93,17 +93,17 @@ You should see confirmation that all dependencies are correctly installed.
 
 Compile and run a random **n** benchmarks:
 ```bash
-python3 run_benchmarks.py --num [n]
+python3 min_eval.py --num [n]
 ```
 
 Compile and run a specific benchmark:
 ```bash
-python3 run_benchmarks.py --one [benchmark_folder_name]
+python3 min_eval.py --one [benchmark_folder_name]
 ```
 Example:
 To compile and run only ```adam-cuda``` benchmark program use the following command:
 ```bash
-python3 run_benchmarks.py --one adam-cuda
+python3 min_eval.py --one adam-cuda
 ```
 
 ---
