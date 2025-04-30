@@ -1,6 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15302892.svg)](https://doi.org/10.5281/zenodo.15302892)
-
-[![GSOHC Logo](https://img.icons8.com/ios/452/processor.png)](https://github.com/YourGitHubPage)  
+ 
 
 # GSOHC: Global Synchronization Optimization for Heterogeneous Computing (Artifact)
 
